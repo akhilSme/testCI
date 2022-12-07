@@ -36,7 +36,7 @@ class Header extends Component {
                     </li>
                     <li>
                       <a href="#" title="Logout">
-                        Logout
+                        Logout_
                       </a>
                     </li>
                   </ul>
